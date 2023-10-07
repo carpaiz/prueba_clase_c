@@ -1,3 +1,4 @@
+// esto es un comentario para ver los cambios
 #include <iostream>
 using namespace std;
 const char *nombre_archivo = "archivo.dat";
