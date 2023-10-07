@@ -13,6 +13,7 @@ void Crear();
 void Actualizar();
 void Borrar();
 main() {
+	cout<<"Esto es una prueba"<<endl;
 	Leer();
   	Crear();
   	Borrar();
